@@ -2,14 +2,14 @@
   <img src="https://startupsmagazine.co.uk/sites/default/files/2020-04/Smart-little-girl-using-her-laptop-1.gif" width="400"/>
 </div>
 
-<h2 align="center">Hi 👋, I'm Jaya Kedia!</h2>
+<h2 align="center">Hi 👋, I'm Mehul Jain!</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Jaya%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech Pre-Final year student at IIT BHU, specialise in Web Development, JavaScript and Design.  
-- 🔭 I’m currently learning Data Analytics & focusing on **DSA**.
+- 👨‍💻 I'm a B-Tech Pre-Final year student at IIT BHU, specialise in Web Development and JavaScript.  
+- 🔭 I’m currently learning Data Structures and Algorithms.
 - 🌱 In my free time, I read tech articles,astronomy stuffs and watch upon new Technolgies.
 - ✨ I love to network, join new communities and add value.
 - 📫 How to reach me **jayakedia10@gmail.com**
