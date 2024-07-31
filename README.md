@@ -8,8 +8,8 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech Pre-Final year student at IIT BHU, specialise in Web Development, JavaScript and Design.  
-- 🔭 I’m currently learning Data Analytics & focusing on **DSA**.
+- 👨‍💻 I'm a B-Tech Final year student at IIT BHU, specialise in Machine Learning, Web Development and Design.  
+- 🔭 I’m currently learning Graph Neural Networks & focusing on **DSA**.
 - 🌱 In my free time, I read tech articles,astronomy stuffs and watch upon new Technolgies.
 - ✨ I love to network, join new communities and add value.
 - 📫 How to reach me **jayakedia10@gmail.com**
